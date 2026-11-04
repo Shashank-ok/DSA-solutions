@@ -1,12 +1,12 @@
 {
-  "totalSolved": 8,
+  "totalSolved": 9,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-11-04",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 4,
+    "medium": 5,
     "hard": 1,
     "basic": 0
   },
@@ -18,17 +18,19 @@
     "GeeksForGeeks_Median_in_a_Row-Wise_Sorted_Matrix": true,
     "LeetCode_Find_Smallest_Letter_Greater_Than_Target": true,
     "LeetCode_Search_Insert_Position": true,
-    "LeetCode_Search_a_2D_Matrix": true
+    "LeetCode_Search_a_2D_Matrix": true,
+    "GeeksForGeeks_Counting_elements_in_two_arrays": true
   },
   "activityHistory": {
     "2026-10-30": 3,
-    "2026-11-04": 5
+    "2026-11-04": 6
   },
   "todayProblems": [
     "Arranging Coins",
     "Median in a Row-Wise Sorted Matrix",
     "Find Smallest Letter Greater Than Target",
     "Search Insert Position",
-    "Search a 2D Matrix"
+    "Search a 2D Matrix",
+    "Counting elements in two arrays"
   ]
 }
