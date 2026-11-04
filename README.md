@@ -10,3 +10,4 @@
 | 8 | [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | 04 Nov 2026 | 10:42 am |
 | 9 | [Counting elements in two arrays](./GeeksForGeeks/Medium/Counting%20elements%20in%20two%20arrays) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1?page=1&sortBy=submissions&category%5B%5D=Binary%2520Search) | Medium | 04 Nov 2026 | 11:08 am |
 | 10 | [House Robber IV](./LeetCode/Medium/House%20Robber%20IV) | [LeetCode](https://leetcode.com/problems/house-robber-iv/) | Medium | 04 Nov 2026 | 12:07 pm |
+| 11 | [Aggressive Cows](./GeeksForGeeks/Medium/Aggressive%20Cows) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | Medium | 04 Nov 2026 | 12:48 pm |
