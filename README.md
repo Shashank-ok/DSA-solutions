@@ -4,3 +4,4 @@
 | 2 | [Find Minimum in Rotated Sorted Array II](./LeetCode/Hard/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Hard | 30 Oct 2026 | 08:58 pm |
 | 3 | [Koko Eating Bananas](./LeetCode/Medium/Koko%20Eating%20Bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) | Medium | 30 Oct 2026 | 09:35 pm |
 | 4 | [Arranging Coins](./LeetCode/Easy/Arranging%20Coins) | [LeetCode](https://leetcode.com/problems/arranging-coins/) | Easy | 04 Nov 2026 | 05:53 am |
+| 5 | [Median in a Row-Wise Sorted Matrix](./GeeksForGeeks/Medium/Median%20in%20a%20Row-Wise%20Sorted%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1) | Medium | 04 Nov 2026 | 10:01 am |
