@@ -7,3 +7,4 @@
 | 5 | [Median in a Row-Wise Sorted Matrix](./GeeksForGeeks/Medium/Median%20in%20a%20Row-Wise%20Sorted%20Matrix) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1) | Medium | 04 Nov 2026 | 10:01 am |
 | 6 | [Find Smallest Letter Greater Than Target](./LeetCode/Easy/Find%20Smallest%20Letter%20Greater%20Than%20Target) | [LeetCode](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | Easy | 04 Nov 2026 | 10:07 am |
 | 7 | [Search Insert Position](./LeetCode/Easy/Search%20Insert%20Position) | [LeetCode](https://leetcode.com/problems/search-insert-position/) | Easy | 04 Nov 2026 | 10:16 am |
+| 8 | [Search a 2D Matrix](./LeetCode/Medium/Search%20a%202D%20Matrix) | [LeetCode](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | 04 Nov 2026 | 10:42 am |
